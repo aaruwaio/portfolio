@@ -107,7 +107,7 @@ hr {
 
 .navbar-brand {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 30px;
   letter-spacing: 2px;
 }
 
@@ -145,15 +145,16 @@ hr {
 
 #footer {
   background-color: #2f2f2f;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
 }
 
 #footer p {
   color: white;
 }
 
-#footer h4 {
+#footer h3 {
   color: white;
   text-transform: uppercase;
   padding-bottom: 20px;
